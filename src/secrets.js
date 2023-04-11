@@ -1,0 +1,1 @@
+export const NASA_API_KEY = "cr4kFzGt6ridre9SKKDCgbu9ElKumsbtmfuUZFag"
